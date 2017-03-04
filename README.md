@@ -4,4 +4,5 @@
 还有 **Head First  Python**上的项目
 ## 注意：
 ### Python 的版本是 3.x
-### 使用的IDE是 PyCharm
+### 使用的IDE是 PyCharm  
+&scric
