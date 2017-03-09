@@ -1,5 +1,7 @@
 import turtle
-import time
+
+# import time
+
 def drawSnake(rad,angle,len,neckrad):
     colors = ["red","yellow",'purple','blue']
     for i in range(len): # range() ：迭代一个数字序列
@@ -22,4 +24,5 @@ def main():
 
 # 运行程序
 main()
-time.sleep(55)
+
+# time.sleep(55)
