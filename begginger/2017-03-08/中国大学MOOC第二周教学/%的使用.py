@@ -6,8 +6,6 @@ print("%f is My number "%n)
 
 print('')
 
-
-
 print('')
 
 # %s的测试  # 字符串类型

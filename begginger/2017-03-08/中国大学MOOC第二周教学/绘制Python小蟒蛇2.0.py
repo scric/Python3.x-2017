@@ -7,11 +7,11 @@ def drawSnake(rad,angle,len,neckrad):
     for i in range(len): # range() ：迭代一个数字序列
         # 先选取好颜色
         turtle.pencolor(colors[i % 4]) # pencolor，运动轨迹颜色
-        turtle.circle(rad,angle) # circle() ，画圆：rad描述轨迹半径位置，angle为推挤沿圆形爬行的弧度值。
+        turtle.circle(rad,angle)  # circle() ，画圆：rad描述轨迹半径位置，angle为推挤沿圆形爬行的弧度值。
         turtle.circle(-rad,angle)
     turtle.circle(rad,angle/2)
-    turtle.fd(rad) # fd()表示轨迹要运动的距离
-    turtle.circle(neckrad+1,180)
+    turtle.fd(rad)  # fd()表示轨迹要运动的距离
+    turtle.circle(neckrad+1, 180)
     turtle.fd(rad*2/3)
 
 def main():
