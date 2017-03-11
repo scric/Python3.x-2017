@@ -3,7 +3,7 @@ import getCoachData
 import os
 os.chdir('D:/Python/python-git/begginger/2017-03-11/Program')
 
-sarah=getCoachData.get_coach_data('sarah2.txt')  # 使用get_coach_data()函数将sarah的数据文件转化为一个列表，然后把它赋值给“sarah”变量
+sarah=getCoachData.get_coach_data('sarah.txt')  # 使用get_coach_data()函数将sarah的数据文件转化为一个列表，然后把它赋值给“sarah”变量
 
 (sarah_name,saran_dob)=sarah.pop(0),sarah.pop(0) # pop()调用将删除并返回列表最前面的数据项。
 print(sarah_name+"'s fastest times are:"+str(sorted(set([sanitize.sanitize(t) for t in sarah]))[0:3]))
