@@ -1,7 +1,6 @@
 import random
 import turtle
 import randomCol
-# import time
 
 # 随机生成颜色的代码块
 # setcolor=['A','B','C','D','E','F',1,2,3,4,5,6,7,8,9,0]
