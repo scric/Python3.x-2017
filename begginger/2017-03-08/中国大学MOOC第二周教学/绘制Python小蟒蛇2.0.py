@@ -25,4 +25,4 @@ def main():
 # 运行程序
 main()
 
-# time.sleep(55)
+turtle.done()

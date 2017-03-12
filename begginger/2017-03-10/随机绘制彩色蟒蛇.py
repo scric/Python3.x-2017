@@ -1,6 +1,6 @@
 import random
 import turtle
-import randomCol
+# import randomCol
 
 # 随机生成颜色的代码块
 # setcolor=['A','B','C','D','E','F',1,2,3,4,5,6,7,8,9,0]
@@ -12,22 +12,15 @@ import randomCol
 
 # print(a)
 
-#    setcolor = ['A', 'B', 'C', 'D', 'E', 'F', 1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
-# # 先选取好颜色
-#    for i in range(len):
-#        a = "#"
-#        color = random.sample(setcolor, 6)
-#        for j in color:
-#             a = a + str(j)
-
 def drawSnake(rad,angle,len,neckrad):
-    # setcolor = ['A', 'B', 'C', 'D', 'E', 'F', 1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
+    setcolor = ['A', 'B', 'C', 'D', 'E', 'F', 1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
     for i in range(len):
-      # a = "#"
-      # color= random.sample(setcolor, 6)
-      # for j in color:
-      #   a = a + str(j)
-      turtle.pencolor(randomCol.ranColor())
+      a = "#"
+      color= random.sample(setcolor, 6)
+      for j in color:
+        a = a + str(j)
+      # turtle.pencolor(randomCol.ranColor()) # 调用randomCol模块中的ranColor()
+      turtle.pencolor(a)   # 如要调用randomCol模块，将其注释
       turtle.circle(rad,angle) # circle() ，画圆：rad描述轨迹半径位置，angle为推挤沿圆形爬行的弧度值。
       turtle.circle(-rad, angle)
     turtle.circle(angle / 2, rad)

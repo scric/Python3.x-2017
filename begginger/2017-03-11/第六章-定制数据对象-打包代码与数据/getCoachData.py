@@ -17,8 +17,9 @@ def get_coach_data2(filename):
       with open(filename)as f:
           data=f.readline()
       templ=data.strip().split(',')
-      return ({'Name':templ.pop(0),'DOB':templ.pop(0),'Times':str(sorted(set([sanitize.sanitize(t) for t in templ]))[0:3])})
+      return({'Name':templ.pop(0),'DOB':templ.pop(0),'Times':str(sorted(set([sanitize.sanitize(t) for t in templ]))[0:3])})
 
   except IOError as ioerr:
       print('File error:'+str(ioerr))
       return (None)
+
