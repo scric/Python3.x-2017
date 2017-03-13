@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dfb78a8-9824-4e19-9bf7-a8666162eebd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-12/日常答疑/turtleCircle的使用.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-08/中国大学MOOC第二周教学/绘制Python小蟒蛇2.0.py" afterPath="$PROJECT_DIR$/begginger/2017-03-08/中国大学MOOC第二周教学/绘制Python小蟒蛇2.0.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-10/随机绘制彩色蟒蛇.py" afterPath="$PROJECT_DIR$/begginger/2017-03-10/随机绘制彩色蟒蛇.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/getCoachData.py" afterPath="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/getCoachData.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/类的认识.py" afterPath="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/类的认识.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/begginger/2017-03-11/randomCol.py" afterPath="$PROJECT_DIR$/begginger/2017-03-11/日常答疑/randomCol.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/begginger/2017-03-11/六芒星的绘制法三.py" afterPath="$PROJECT_DIR$/begginger/2017-03-11/日常答疑/六芒星的绘制法三.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/begginger/2017-03-11/六芒星的绘制法四.py" afterPath="$PROJECT_DIR$/begginger/2017-03-11/日常答疑/六芒星的绘制法四.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/begginger/2017-03-11/彩色三角形随机版.py" afterPath="$PROJECT_DIR$/begginger/2017-03-11/日常答疑/彩色三角形随机版.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/begginger/2017-03-11/玫瑰的绘制.py" afterPath="$PROJECT_DIR$/begginger/2017-03-11/日常答疑/玫瑰的绘制.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/begginger/2017-03-11/质数的判断.py" afterPath="$PROJECT_DIR$/begginger/2017-03-11/日常答疑/质数的判断.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/知识点.md" afterPath="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/知识点.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-12/README.md" afterPath="$PROJECT_DIR$/begginger/2017-03-12/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/Athlete.py" afterPath="$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/Athlete.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/README.md" afterPath="$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/athletemodel.py" afterPath="$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/athletemodel.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,22 +30,24 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file leaf-file-name="readFile最终版.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/readFile最终版.py">
+          <file leaf-file-name="athletemodel.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/athletemodel.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-166">
-                  <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-                  <folding />
+                <state relative-caret-position="527">
+                  <caret line="62" column="4" lean-forward="true" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
+                  <folding>
+                    <element signature="e#2#15#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="知识点.md" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/知识点.md">
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="0">
-                    <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+                  <first_editor relative-caret-position="270">
+                    <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                     <folding />
                   </first_editor>
                   <second_editor />
@@ -59,48 +55,39 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="sanitize.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/sanitize.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="8" column="26" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="26" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
           <file leaf-file-name="Athlete.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/Athlete.py">
+            <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/Athlete.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="510">
-                  <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+                <state relative-caret-position="390">
+                  <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="getCoachData.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/getCoachData.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="494">
-                  <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="readFile4.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/readFile4.py">
+          <file leaf-file-name="sanitize.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/sanitize.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="61" />
-                  <folding>
-                    <element signature="e#0#9#0" expanded="true" />
-                  </folding>
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="663">
+                    <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+                    <folding />
+                  </first_editor>
+                  <second_editor />
                 </state>
               </provider>
             </entry>
@@ -126,10 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/begginger/2017-03-09/绘制六芒星法二.py" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-09/README.md" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-08/README.md" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-09/第五章-推导数据-处理数据/testForSort.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-09/第五章-推导数据-处理数据/sanitize.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-09/第五章-推导数据-处理数据/README.md" />
         <option value="$PROJECT_DIR$/begginger/2017-03-09/第五章-推导数据-处理数据/readFile.py" />
@@ -148,7 +131,6 @@
         <option value="$PROJECT_DIR$/begginger/2017-03-11/README.md" />
         <option value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/rename.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/sanitize.py" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/知识点.md" />
         <option value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/字典的认识.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-10/randomCol.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-08/中国大学MOOC第二周教学/六芒星的绘制.py" />
@@ -177,6 +159,11 @@
         <option value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/readFile4.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/Athlete.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/readFile最终版.py" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/知识点.md" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-12/README.md" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/Athlete.py" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/athletemodel.py" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/README.md" />
       </list>
     </option>
   </component>
@@ -241,6 +228,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -281,86 +269,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2017-03-12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="日常答疑" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="begginger" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017-03-11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="begginger" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017-03-11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="第六章-定制数据对象-打包代码与数据" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="begginger" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017-03-10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="begginger" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="2017-03-01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -368,7 +276,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -377,6 +284,9 @@
     <property name="SearchEverywhereHistoryKey" value="蛇&#9;FILE&#9;file://D:/Python/python-git/begginger/2017-03-08/中国大学MOOC第二周教学/绘制Python小蟒蛇2.0.py" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\python-git\begginger\2017-03-12\第七章-Web开发-集成在一起" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\python-git\begginger\2017-03-11\日常答疑" />
       <recent name="D:\Python\python-git\begginger\2017-03-11" />
@@ -385,7 +295,7 @@
       <recent name="D:\Python\python-git\begginger\2017-03-08\中国大学MOOC第二周教学" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.readFile最终版">
+  <component name="RunManager" selected="Python.athletemodel">
     <configuration default="false" name="类的认识" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -420,23 +330,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="彩色三角形随机版" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/2017-03-11/日常答疑" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-11/日常答疑/彩色三角形随机版.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="Athlete" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -467,6 +360,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-git" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/readFile最终版.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="athletemodel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/athletemodel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -608,17 +518,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.类的认识" />
       <item index="1" class="java.lang.String" itemvalue="Python.继承类的使用" />
-      <item index="2" class="java.lang.String" itemvalue="Python.彩色三角形随机版" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Athlete" />
-      <item index="4" class="java.lang.String" itemvalue="Python.readFile最终版" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Athlete" />
+      <item index="3" class="java.lang.String" itemvalue="Python.readFile最终版" />
+      <item index="4" class="java.lang.String" itemvalue="Python.athletemodel" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.readFile最终版" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Athlete" />
-        <item index="2" class="java.lang.String" itemvalue="Python.类的认识" />
-        <item index="3" class="java.lang.String" itemvalue="Python.继承类的使用" />
-        <item index="4" class="java.lang.String" itemvalue="Python.彩色三角形随机版" />
+        <item index="0" class="java.lang.String" itemvalue="Python.athletemodel" />
+        <item index="1" class="java.lang.String" itemvalue="Python.readFile最终版" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Athlete" />
+        <item index="3" class="java.lang.String" itemvalue="Python.类的认识" />
+        <item index="4" class="java.lang.String" itemvalue="Python.继承类的使用" />
       </list>
     </recent_temporary>
   </component>
@@ -656,15 +566,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.165625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.165625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18924509" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18924509" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18614271" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -706,44 +616,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-10/第五章-推导数据-处理数据/testForGather.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-10/第五章-推导数据-处理数据/get_coach_data.py" />
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-10/第五章-推导数据-处理数据/delDuplicate最终版.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-10/第五章-推导数据-处理数据/delDuplicate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="84" column="19" lean-forward="true" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/README" />
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/rename.py" />
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-09/第五章-推导数据-处理数据/sanitize.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -771,7 +643,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
             <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -802,7 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-300">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -897,7 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -905,7 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -913,9 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
           <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding>
-            <element signature="e#47#60#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -923,7 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -937,18 +801,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/字典的认识.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="28" column="49" lean-forward="true" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/packDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -956,7 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -964,25 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-10/randomCol.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-10/随机绘制彩色蟒蛇.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -990,9 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
           <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1000,9 +833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-106">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1010,9 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
           <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="e#1#20#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1020,9 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-388">
           <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1030,7 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="602">
           <caret line="27" column="43" lean-forward="false" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1038,7 +861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="584">
           <caret line="57" column="27" lean-forward="false" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1047,7 +869,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="480">
             <caret line="59" column="26" lean-forward="false" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1057,34 +878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="26" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/知识点.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/Athlete.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/getCoachData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1092,17 +885,113 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/Athlete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/readFile最终版.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-166">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/字典的认识.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="28" column="49" lean-forward="false" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/知识点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-10/随机绘制彩色蟒蛇.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-10/random的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/getCoachData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-10/randomCol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/athletemodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="62" column="4" lean-forward="true" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
+          <folding>
+            <element signature="e#2#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/Athlete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/sanitize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="663">
+            <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
