@@ -3,6 +3,7 @@ import pickle
 
 from athletelist import AthleteList
 
+
 def get_coach_data(filename):
     try:
         with open(filename) as f:
@@ -12,6 +13,7 @@ def get_coach_data(filename):
     except IOError as ioerr:
         print('File error (get_coach_data): ' + str(ioerr))
         return(None)
+
 
 def put_to_store(files_list):
     all_athletes = {}
@@ -25,6 +27,7 @@ def put_to_store(files_list):
         print('File error (put_and_store): ' + str(ioerr))
     return(all_athletes)
 
+
 def get_from_store():
     all_athletes = {}
     try:
@@ -32,4 +35,4 @@ def get_from_store():
             all_athletes = pickle.load(athf)
     except IOError as ioerr:
         print('File error (get_from_store): ' + str(ioerr))
-    return(all_athletes)
+    return all_athletes

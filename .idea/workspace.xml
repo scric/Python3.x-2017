@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dfb78a8-9824-4e19-9bf7-a8666162eebd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_timing_data.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-13/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/CGI的应用.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/generate_list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/generate_timing_data.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/yate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/对yate的测试.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/athletemodel.py" afterPath="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/athletemodel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_list.py" afterPath="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_timing_data.py" afterPath="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_timing_data.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/yate.py" afterPath="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/yate.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/generate_list.py" afterPath="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/generate_list.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,142 +23,93 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="D:\Python\python-git\exportToHTML" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="firstProgram" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file leaf-file-name="yate.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/yate.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1233">
-                  <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="对yate的测试.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/对yate的测试.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1170">
-                  <caret line="39" column="55" lean-forward="false" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
-                  <folding>
-                    <element signature="e#0#18#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="generate_timing_data.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/generate_timing_data.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="214">
-                  <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#0#20#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="generate_timing_data.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_timing_data.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-                  <folding>
-                    <element signature="e#0#20#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="simple_httpd.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/simple_httpd.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-90">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="athletelist.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/athletelist.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-98">
-                  <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="athletemodel.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/athletemodel.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-428">
-                  <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-                  <folding>
-                    <element signature="e#1#14#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="generate_list.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_list.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="510">
-                  <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-                  <folding>
-                    <element signature="e#0#19#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="generate_list.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/generate_list.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="202">
-                  <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="19" selection-end-column="51" />
-                  <folding>
-                    <element signature="e#0#19#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="readFile最终版.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/readFile最终版.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="yate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/yate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#1#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generate_list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/generate_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generate_timing_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_timing_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generate_list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="simple_httpd.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/simple_httpd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="athletelist.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/athletelist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="athletemodel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/athletemodel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -186,8 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/begginger/2017-03-08/中国大学MOOC第二周教学/%的使用.py" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-10/第五章-推导数据-处理数据/get_coach_data.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-10/第五章-推导数据-处理数据/delDuplicate.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-10/第五章-推导数据-处理数据/getCoachData.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-10/第五章-推导数据-处理数据/delDuplicate最终版.py" />
@@ -232,11 +177,13 @@
         <option value="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/对yate的测试.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/README.md" />
         <option value="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/CGI的应用.py" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/generate_list.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/yate.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/generate_timing_data.py" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_list.py" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/athletemodel.py" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/yate.py" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/generate_list.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_timing_data.py" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_list.py" />
       </list>
     </option>
   </component>
@@ -465,8 +412,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -487,8 +434,25 @@
       <recent name="D:\Python\python-git\begginger\2017-03-09" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.generate_timing_data">
-    <configuration default="false" name="对yate的测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.simple_httpd">
+    <configuration default="false" name="generate_timing_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_timing_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="generate_list (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -500,41 +464,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/对yate的测试.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/generate_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="CGI的应用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="yate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/CGI的应用.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="simple_httpd" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/simple_httpd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/yate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -556,19 +503,19 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="generate_timing_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="simple_httpd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_timing_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/simple_httpd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -708,19 +655,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.对yate的测试" />
-      <item index="1" class="java.lang.String" itemvalue="Python.CGI的应用" />
-      <item index="2" class="java.lang.String" itemvalue="Python.simple_httpd" />
+      <item index="0" class="java.lang.String" itemvalue="Python.generate_timing_data" />
+      <item index="1" class="java.lang.String" itemvalue="Python.generate_list (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.yate" />
       <item index="3" class="java.lang.String" itemvalue="Python.generate_list" />
-      <item index="4" class="java.lang.String" itemvalue="Python.generate_timing_data" />
+      <item index="4" class="java.lang.String" itemvalue="Python.simple_httpd" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.generate_timing_data" />
+        <item index="0" class="java.lang.String" itemvalue="Python.simple_httpd" />
         <item index="1" class="java.lang.String" itemvalue="Python.generate_list" />
-        <item index="2" class="java.lang.String" itemvalue="Python.simple_httpd" />
-        <item index="3" class="java.lang.String" itemvalue="Python.CGI的应用" />
-        <item index="4" class="java.lang.String" itemvalue="Python.对yate的测试" />
+        <item index="2" class="java.lang.String" itemvalue="Python.yate" />
+        <item index="3" class="java.lang.String" itemvalue="Python.generate_timing_data" />
+        <item index="4" class="java.lang.String" itemvalue="Python.generate_list (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -758,8 +705,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="0" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.165625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -813,13 +760,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-01/中国大学MOOC-第一周作业/HelloWorld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-01/中国大学MOOC-第一周作业/字符串拼接.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1030,7 +970,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="270">
             <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1041,7 +980,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="600">
             <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1051,7 +989,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1059,7 +996,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1067,7 +1003,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1075,34 +1010,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/yate2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/yate2.py" />
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="210">
             <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/readFile最终版.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1111,7 +1029,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="362">
             <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1121,17 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/对yate的测试.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="39" column="55" lean-forward="false" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1139,89 +1045,114 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="62" column="4" lean-forward="false" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/yate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1233">
-          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/generate_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="19" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/generate_timing_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
+        <state relative-caret-position="215">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="e#0#20#0" expanded="true" />
+            <element signature="e#0#20#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/simple_httpd.py">
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/对yate的测试.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="395">
+          <caret line="39" column="55" lean-forward="false" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/yate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/athletelist.py">
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/readFile最终版.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-98">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="240">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/athletemodel.py">
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/generate_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-428">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="e#1#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        <state relative-caret-position="420">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/athletelist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/athletemodel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_timing_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/generate_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/cgi-bin/yate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/Program/webapp/simple_httpd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

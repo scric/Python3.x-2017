@@ -2,6 +2,7 @@ import athletemodel
 import yate
 import glob
 
+
 data_files = glob.glob("data/*.txt")
 athletes = athletemodel.put_to_store(data_files)
 
