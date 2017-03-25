@@ -78,10 +78,10 @@ print(days[6:len(days)])
 print(days[days.find("星"):days.find("六")])
 # 星期
 
-# 通过上面的结果你能得出什么结论吗?
+# 通过上面的结果你能得出什么结论吗?试着总结一下.
 
 print(days.replace("25", "32"))  # 字符串替换
-# 语法 : <string>.replace("old","new",max)  max指替换多少个.
+# 语法 : <string>.replace("old","new",max)  max指替换多少个.max是可选参数
 # Mar32是星期六
 
 
