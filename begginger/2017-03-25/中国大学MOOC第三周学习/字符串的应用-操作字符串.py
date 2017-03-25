@@ -84,6 +84,19 @@ print(days.replace("25", "32"))  # 字符串替换
 # 语法 : <string>.replace("old","new",max)  max指替换多少个.max是可选参数
 # Mar32是星期六
 
+for i in days:
+    print(i)
+
+for i in range(len(days)):
+    print(days[:i])
+
+for i in range(len(days)):
+    print(days[i])
+
+for i in days:
+    print(days)
+
+# 你还有别的方法吗?
 
 
 
