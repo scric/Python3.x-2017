@@ -6,20 +6,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dfb78a8-9824-4e19-9bf7-a8666162eebd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/random库的使用.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/π的计算.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/二次方程的求解.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/列表的操作.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/知识点.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答/三个数比较.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答/提取多重元组中的数据.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答/求平均值.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答/输出星星.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/Program/numList1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/numList.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/numList2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/循环-文件循环.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/成绩判断.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/计算BMI值.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-01/中国大学MOOC-第一周作业/温度转换.py" afterPath="$PROJECT_DIR$/begginger/2017-03-01/中国大学MOOC-第一周作业/温度转换.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/字符串的应用-操作字符串.py" afterPath="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/字符串的应用-操作字符串.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/字符串的应用-输出月份.py" afterPath="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/字符串的应用-输出月份.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,7 +36,7 @@
       <file leaf-file-name="列表的操作.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/列表的操作.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
+            <state relative-caret-position="30">
               <caret line="33" column="35" lean-forward="false" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
               <folding />
             </state>
@@ -53,29 +46,92 @@
       <file leaf-file-name="字符串的应用-操作字符串.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/字符串的应用-操作字符串.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2580">
-              <caret line="86" column="14" lean-forward="true" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
+            <state relative-caret-position="30">
+              <caret line="86" column="14" lean-forward="false" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="求平均值.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="求平均值.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答/求平均值.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="28" column="51" lean-forward="true" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+            <state relative-caret-position="330">
+              <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="输出星星.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答/输出星星.py">
+      <file leaf-file-name="循环-文件循环.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/循环-文件循环.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="计算BMI值.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/计算BMI值.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="成绩判断.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/成绩判断.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="numList2" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/numList2">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="numList1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/Program/numList1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="numList.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/numList.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="2" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/begginger/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -104,13 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/packDemo.py" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/类的人是.py" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-08/中国大学MOOC第二周教学/绘制Python小蟒蛇2.0.py" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-12/日常答疑/turtleCircle的使用.py" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-10/随机绘制彩色蟒蛇.py" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/readFile3.py" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/README.md" />
         <option value="$PROJECT_DIR$/begginger/2017-03-11/日常答疑/彩色三角形随机版.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/getCoachData.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/继承类的使用.py" />
@@ -155,6 +204,13 @@
         <option value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/二次方程的求解.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答/三个数比较.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答/求平均值.py" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/numList.py" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/numList.txt" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/Program/numList1.txt" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/numList2" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/循环-文件循环.py" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/计算BMI值.py" />
+        <option value="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/成绩判断.py" />
       </list>
     </option>
   </component>
@@ -261,11 +317,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2017-03-25" />
+              <option name="myItemId" value="2017-03-26" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="中国大学MOOC第三周学习" />
+              <option name="myItemId" value="中国大学MOOC第四周学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="begginger" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017-03-06" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -291,58 +365,7 @@
       <recent name="D:\Python\python-git\begginger\2017-03-12\第七章-Web开发-集成在一起" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.求平均值">
-    <configuration default="false" name="温度转换" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/2017-03-01/中国大学MOOC-第一周作业" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-01/中国大学MOOC-第一周作业/温度转换.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="输出星星" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答/输出星星.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="二次方程的求解" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/二次方程的求解.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.成绩判断">
     <configuration default="false" name="三个数比较" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -373,6 +396,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-git" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答/求平均值.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="循环-文件循环" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/循环-文件循环.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="计算BMI值" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/计算BMI值.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="成绩判断" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/成绩判断.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -512,19 +586,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.温度转换" />
-      <item index="1" class="java.lang.String" itemvalue="Python.输出星星" />
-      <item index="2" class="java.lang.String" itemvalue="Python.二次方程的求解" />
-      <item index="3" class="java.lang.String" itemvalue="Python.三个数比较" />
-      <item index="4" class="java.lang.String" itemvalue="Python.求平均值" />
+      <item index="0" class="java.lang.String" itemvalue="Python.三个数比较" />
+      <item index="1" class="java.lang.String" itemvalue="Python.求平均值" />
+      <item index="2" class="java.lang.String" itemvalue="Python.循环-文件循环" />
+      <item index="3" class="java.lang.String" itemvalue="Python.计算BMI值" />
+      <item index="4" class="java.lang.String" itemvalue="Python.成绩判断" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.求平均值" />
-        <item index="1" class="java.lang.String" itemvalue="Python.三个数比较" />
-        <item index="2" class="java.lang.String" itemvalue="Python.二次方程的求解" />
-        <item index="3" class="java.lang.String" itemvalue="Python.输出星星" />
-        <item index="4" class="java.lang.String" itemvalue="Python.温度转换" />
+        <item index="0" class="java.lang.String" itemvalue="Python.成绩判断" />
+        <item index="1" class="java.lang.String" itemvalue="Python.计算BMI值" />
+        <item index="2" class="java.lang.String" itemvalue="Python.循环-文件循环" />
+        <item index="3" class="java.lang.String" itemvalue="Python.求平均值" />
+        <item index="4" class="java.lang.String" itemvalue="Python.三个数比较" />
       </list>
     </recent_temporary>
   </component>
@@ -617,65 +691,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="600">
-            <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/getCoachData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-11/第六章-定制数据对象-打包代码与数据/Athlete.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/sanitize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/第七章-Web开发-集成在一起/Athlete.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/yate2.py" />
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-13/第七章-Web开发-查看界面/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -932,26 +947,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/元组和列表.py" />
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/列表的操作.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="33" column="35" lean-forward="false" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/字符串的应用-操作字符串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2580">
-          <caret line="86" column="14" lean-forward="true" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答/输出星星.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -960,7 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -968,14 +966,96 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/numList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/numList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/Program/numList1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/字符串的应用-操作字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="86" column="14" lean-forward="false" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答/求平均值.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="28" column="51" lean-forward="true" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+        <state relative-caret-position="330">
+          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/numList2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/列表的操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="33" column="35" lean-forward="false" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/循环-文件循环.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="37" column="18" lean-forward="true" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/成绩判断.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/计算BMI值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
