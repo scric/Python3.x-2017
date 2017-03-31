@@ -1,4 +1,4 @@
-# Python3.x-2017
+## Python3.x-2017
 
 该 repository 专用于记录在中国大学MOOC上学习  
 
@@ -6,13 +6,17 @@ Python的过程
   
 分享代码  
 
-# Python 初学者的学习过程  
+## Python 初学者的学习过程  
 
 内容来自：  
 
 + 中国大学MOOC  Python 语言程序设计
 
 + Head First  Python
+
++ 中国大学MOOC 爬虫学习
+
++ Python 编程快速上手
 
 ## 可加初学者群交流 ： 569990730
 
