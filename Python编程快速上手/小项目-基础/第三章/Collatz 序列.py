@@ -21,6 +21,7 @@ print("共调用 " + str(count) + ' 次')
 # 返回值返回的 是 3 * number + 1 OR number / 2
 # number 的值并未改变 , 所以我们应该将 collate(number) 的值 赋给 number 从而改变 number 的值, 否则打印的永远都是 原来 number 的值
 
+# 输入验证
 # 修改版, 加入输入验证, 检测用户是否输入一个非整数的字符串, 如果在 int() 函数中传入一个非整数字符串, 则提示请重新输入一个 整数
 countt = 0
 while True:
