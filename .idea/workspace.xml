@@ -6,14 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dfb78a8-9824-4e19-9bf7-a8666162eebd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/逗号代码.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python编程快速上手/字典.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/记录生日.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/字符型网格.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python编程快速上手/README.MD" afterPath="$PROJECT_DIR$/Python编程快速上手/README.MD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python编程快速上手/列表.py" afterPath="$PROJECT_DIR$/Python编程快速上手/列表.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第三章/Collatz 序列.py" afterPath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第三章/Collatz 序列.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第三章/输入验证.py" afterPath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章/重复输入猫的名字.py" afterPath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/重复输入猫的名字.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/逗号代码.py" afterPath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/逗号代码.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,31 +31,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="BasicKnowledge.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python编程快速上手/BasicKnowledge.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2700">
-              <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="列表.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python编程快速上手/列表.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3480">
-              <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="逗号代码.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="逗号代码.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/逗号代码.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="字典.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python编程快速上手/字典.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="记录生日.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/记录生日.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="字符型网格.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/字符型网格.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -68,21 +75,8 @@
         <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.MD" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python编程快速上手/README.MD">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -120,8 +114,8 @@
       <file leaf-file-name="Collatz 序列.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第三章/Collatz 序列.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <state relative-caret-position="780">
+              <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -164,10 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/begginger/read.py" />
-        <option value="$PROJECT_DIR$/begginger/TempConvert.py" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-01/restart.py" />
-        <option value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/字符串的应用-输出月份.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/test.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/求平均值.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/字符串的应用-操作字符串.py" />
@@ -214,14 +204,18 @@
         <option value="$PROJECT_DIR$/中国大学MOOC-爬虫学习/request库学习/LearnForRequest.py" />
         <option value="$PROJECT_DIR$/Python编程快速上手/列表.py" />
         <option value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/test.py" />
+        <option value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第三章/Collatz.py" />
+        <option value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/字符型网格.py" />
         <option value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/逗号代码.py" />
+        <option value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/记录生日.py" />
+        <option value="$PROJECT_DIR$/Python编程快速上手/字典.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-6" />
-    <option name="width" value="1938" />
-    <option name="height" value="1098" />
+    <option name="width" value="1932" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -278,6 +272,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -353,10 +349,6 @@
               <option name="myItemId" value="小项目-基础" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="第四章-列表" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -375,11 +367,13 @@
               <option name="myItemId" value="小项目-基础" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="第五章-字典" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -388,6 +382,11 @@
     <property name="SearchEverywhereHistoryKey" value="蛇&#9;FILE&#9;file://D:/Python/python-git/begginger/2017-03-08/中国大学MOOC第二周教学/绘制Python小蟒蛇2.0.py" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\python-git\begginger\问题解答" />
+      <recent name="D:\Python\python-git\begginger\2017-03-13\Program\webapp\cgi-bin" />
+      <recent name="D:\Python\python-git\begginger\2017-03-12\第七章-Web开发-集成在一起" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\python-git\Python编程快速上手\小项目-基础\第三章" />
       <recent name="D:\Python\python-git\Python编程快速上手" />
@@ -395,64 +394,8 @@
       <recent name="D:\Python\python-git\begginger\2017-03-25\中国大学MOOC第三周学习\问题解答" />
       <recent name="D:\Python\python-git\begginger\2017-03-13\Program" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Python\python-git\begginger\问题解答" />
-      <recent name="D:\Python\python-git\begginger\2017-03-13\Program\webapp\cgi-bin" />
-      <recent name="D:\Python\python-git\begginger\2017-03-12\第七章-Web开发-集成在一起" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.逗号代码">
-    <configuration default="false" name="print输出格式定制" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/问题解答" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/问题解答/print输出格式定制.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="列表" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程快速上手" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程快速上手/列表.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="重复输入猫的名字" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章/重复输入猫的名字.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.字典">
     <configuration default="false" name="逗号代码" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -483,6 +426,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-git" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="字符型网格" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/字符型网格.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="字典" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程快速上手" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程快速上手/字典.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="记录生日" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/记录生日.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -622,19 +616,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.print输出格式定制" />
-      <item index="1" class="java.lang.String" itemvalue="Python.列表" />
-      <item index="2" class="java.lang.String" itemvalue="Python.重复输入猫的名字" />
-      <item index="3" class="java.lang.String" itemvalue="Python.逗号代码" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+      <item index="0" class="java.lang.String" itemvalue="Python.逗号代码" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.字符型网格" />
+      <item index="3" class="java.lang.String" itemvalue="Python.字典" />
+      <item index="4" class="java.lang.String" itemvalue="Python.记录生日" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.逗号代码" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.列表" />
-        <item index="3" class="java.lang.String" itemvalue="Python.print输出格式定制" />
-        <item index="4" class="java.lang.String" itemvalue="Python.重复输入猫的名字" />
+        <item index="0" class="java.lang.String" itemvalue="Python.字典" />
+        <item index="1" class="java.lang.String" itemvalue="Python.记录生日" />
+        <item index="2" class="java.lang.String" itemvalue="Python.逗号代码" />
+        <item index="3" class="java.lang.String" itemvalue="Python.字符型网格" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -672,15 +666,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1938" height="1098" extended-state="0" />
+    <frame x="-6" y="0" width="1932" height="1092" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.165625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1661442" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20872274" sideWeight="0.51458335" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20872274" sideWeight="0.48541668" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21003135" sideWeight="0.48541668" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -727,40 +721,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-01/中国大学MOOC-第一周作业/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-01/中国大学MOOC-第一周作业/HelloWorld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/字符串的应用-输出月份.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/π的计算.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1014,11 +974,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第三章/输入验证.py" />
+    <entry file="file://$PROJECT_DIR$/Python编程快速上手/BasicKnowledge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程快速上手/列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3480">
+          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程快速上手/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/中国大学MOOC-爬虫学习/request库学习/LearnForRequest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第三章/函数实现_GuessNum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
@@ -1035,45 +1026,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第三章/Collatz.py" />
     <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第三章/Collatz 序列.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        <state relative-caret-position="780">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程快速上手/BasicKnowledge.py">
+    <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/字符型网格.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2700">
-          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程快速上手/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/中国大学MOOC-爬虫学习/request库学习/LearnForRequest.py">
+    <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程快速上手/列表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3480">
-          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="29" />
+        <state relative-caret-position="90">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -1086,18 +1059,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/test.py">
+    <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/逗号代码.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="240">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第四章-列表/逗号代码.py">
+    <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/记录生日.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        <state relative-caret-position="420">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python编程快速上手/字典.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
           <folding />
         </state>
       </provider>
