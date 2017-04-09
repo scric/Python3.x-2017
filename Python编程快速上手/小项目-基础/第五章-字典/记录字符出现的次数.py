@@ -1,7 +1,7 @@
 # 计算一个字符串中每个字符出现的次数.
 
 # 定义一个字符串 string
-string = 'this is a string obtian many of words , you can guess the string words number '
+string = 'It was a bright cold day in April , and the clocks were striking thirteen.'
 # 定义一个空字典
 count = {}
 
@@ -20,3 +20,4 @@ pprint.pprint(count)
 
 print(type(pprint.pformat(count)))  # <class 'str'>
 print(pprint.pformat(count))
+
