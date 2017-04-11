@@ -6,18 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dfb78a8-9824-4e19-9bf7-a8666162eebd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python编程快速上手/字符串操作.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/begginger/问题解答/读取图形.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python编程快速上手/BasicKnowledge.py" afterPath="$PROJECT_DIR$/Python编程快速上手/BasicKnowledge.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/homework.py" afterPath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/homework.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/test.py" afterPath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/井字棋.py" afterPath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/井字棋.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/好玩物品清单.py" afterPath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/好玩物品清单.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/记录字符出现的次数.py" afterPath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/记录字符出现的次数.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/记录野餐.py" afterPath="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/记录野餐.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/问题解答/质数分解.py" afterPath="$PROJECT_DIR$/begginger/问题解答/质数分解.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begginger/问题解答/质数的判断.py" afterPath="$PROJECT_DIR$/begginger/问题解答/质数的判断.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,19 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/begginger/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="井字棋.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/井字棋.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,7 +51,7 @@
       <file leaf-file-name="好玩物品清单.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/好玩物品清单.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-999">
+            <state relative-caret-position="450">
               <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
               <folding />
             </state>
@@ -91,11 +68,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasicKnowledge.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BasicKnowledge.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python编程快速上手/BasicKnowledge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
-              <caret line="167" column="0" lean-forward="true" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+            <state relative-caret-position="91">
+              <caret line="150" column="18" lean-forward="false" selection-start-line="150" selection-start-column="18" selection-end-line="150" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="读取图形.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/begginger/问题解答/读取图形.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -105,8 +92,8 @@
         <entry file="file://$PROJECT_DIR$/Python编程快速上手/README.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="109">
-                <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <first_editor relative-caret-position="180">
+                <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -171,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/二次方程的求解.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答/三个数比较.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-25/中国大学MOOC第三周学习/问题解答/求平均值.py" />
         <option value="$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/numList.py" />
@@ -222,6 +208,7 @@
         <option value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/好玩物品清单.py" />
         <option value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/字符串操作.py" />
         <option value="$PROJECT_DIR$/Python编程快速上手/BasicKnowledge.py" />
+        <option value="$PROJECT_DIR$/begginger/问题解答/读取图形.py" />
       </list>
     </option>
   </component>
@@ -262,7 +249,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>PyCompatibilityInspection</id>
+            <id>PyUnresolvedReferencesInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -287,6 +274,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -295,7 +283,111 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 (C:\Users\scric\AppData\Local\Programs\Python\Python36\python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="python-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 (C:\Users\scric\AppData\Local\Programs\Python\Python36\python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 (C:\Users\scric\AppData\Local\Programs\Python\Python36\python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv_python-3.2.0.data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 (C:\Users\scric\AppData\Local\Programs\Python\Python36\python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv_python-3.2.0.data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 (C:\Users\scric\AppData\Local\Programs\Python\Python36\python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opencv_python-3.2.0.data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -306,34 +398,11 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="python-git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python编程快速上手" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python编程快速上手" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="小项目-基础" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,7 +424,7 @@
       <recent name="D:\Python\python-git\begginger\2017-03-12\第七章-Web开发-集成在一起" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BasicKnowledge">
+  <component name="RunManager" selected="Python.读取图形">
     <configuration default="false" name="homework" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,23 +438,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-git" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/homework.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="质数分解" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/问题解答" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-git" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/问题解答/质数分解.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -437,6 +489,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-git" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python编程快速上手/BasicKnowledge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="读取图形" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/begginger/问题解答" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-git" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begginger/问题解答/读取图形.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -577,18 +646,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.homework" />
-      <item index="1" class="java.lang.String" itemvalue="Python.质数分解" />
-      <item index="2" class="java.lang.String" itemvalue="Python.好玩物品清单" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.BasicKnowledge" />
+      <item index="1" class="java.lang.String" itemvalue="Python.好玩物品清单" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.BasicKnowledge" />
+      <item index="4" class="java.lang.String" itemvalue="Python.读取图形" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.BasicKnowledge" />
-        <item index="1" class="java.lang.String" itemvalue="Python.好玩物品清单" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.homework" />
-        <item index="4" class="java.lang.String" itemvalue="Python.质数分解" />
+        <item index="0" class="java.lang.String" itemvalue="Python.读取图形" />
+        <item index="1" class="java.lang.String" itemvalue="Python.BasicKnowledge" />
+        <item index="2" class="java.lang.String" itemvalue="Python.好玩物品清单" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.homework" />
       </list>
     </recent_temporary>
   </component>
@@ -676,18 +745,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="118" />
+      <option name="time" value="119" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/begginger/2017-03-12/日常答疑/turtleCircle的使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/begginger/2017-03-26/中国大学MOOC第四周学习/循环-文件循环.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
@@ -931,7 +993,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28140">
           <caret line="973" column="0" lean-forward="false" selection-start-line="973" selection-start-column="0" selection-end-line="973" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -946,7 +1007,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -954,7 +1014,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1012,7 +1071,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python编程快速上手/小项目-基础/第五章-字典/好玩物品清单.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-999">
+        <state relative-caret-position="450">
           <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding />
         </state>
@@ -1021,8 +1080,8 @@
     <entry file="file://$PROJECT_DIR$/Python编程快速上手/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="109">
-            <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <first_editor relative-caret-position="180">
+            <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1039,8 +1098,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python编程快速上手/BasicKnowledge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="167" column="0" lean-forward="true" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+        <state relative-caret-position="91">
+          <caret line="150" column="18" lean-forward="false" selection-start-line="150" selection-start-column="18" selection-end-line="150" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/begginger/问题解答/读取图形.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
           <folding />
         </state>
       </provider>
